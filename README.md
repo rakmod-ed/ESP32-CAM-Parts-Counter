@@ -2,10 +2,6 @@
 
 A low-cost parts counter built on the **ESP32-CAM**. Small parts like screws, nuts and resistors are placed on a backlit tray, and the device counts them in real time using blob detection, showing the count on an OLED display. No PC needed, and the total cost is about **₹1,800**.
 
-## Demo
-
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
-
 ## Block Diagram
 
 ![Block Diagram](media/block_diagram.png)
