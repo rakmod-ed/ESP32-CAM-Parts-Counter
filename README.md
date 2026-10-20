@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
 
 ## Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](media/block_diagram.png)
 
 ## How It Works
 
@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
 | 9V battery | 1 | 90 |
 | **Total** | | **1,793** |
 
+![ESP32-CAM Module](media/esp32_cam_module.png)
+
 ## 3D-Printed Parts
 
 | Part | Description |
@@ -38,12 +40,13 @@ https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
 | `tray.stl` | White diffusing tray that the parts are placed on |
 | `stand.stl` | Holds the camera at a fixed height above the tray |
 
+![3D-Printed Model](media/3d_printed_model.png)
+
 ## Code
 
 | File | Description |
 |---|---|
 | `workshop.ino` | Main firmware: auto ROI calibration, blob counting and OLED output |
-| `esp_cam.ino` | Reference version with display modes and serial parameter tuning, based on the HackMakeMod blob counter |
 
 ## Limitations
 
