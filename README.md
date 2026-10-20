@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
 
 | File | Description |
 |---|---|
-| `workshop.ino` | Main firmware: auto ROI calibration, blob counting and OLED output |
+| `code/parts_counter/parts_counter.ino` | Main firmware: auto ROI calibration, blob counting and OLED output |
 
 ## Limitations
 
